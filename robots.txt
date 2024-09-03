@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://eloritudie.github.io/sitemap.html.gz
+Sitemap: https://eloritudie.github.io/app/sitemap.html.gz
+Sitemap: https://eloritudie.github.io/assets/sitemap.html.gz
+Sitemap: https://eloritudie.github.io/css/sitemap.html.gz
+Sitemap: https://eloritudie.github.io/includes/sitemap.html.gz
+Sitemap: https://eloritudie.github.io/item/sitemap.html.gz
+Sitemap: https://eloritudie.github.io/src/sitemap.html.gz
